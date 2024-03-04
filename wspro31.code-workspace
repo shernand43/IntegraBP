@@ -5,7 +5,7 @@
 		}
 	],
 	"settings": {
-		"workbench.colorTheme": "Visual Studio Light",
+		"workbench.colorTheme": "Default High Contrast",
 		"liveServer.settings.port": 5501
 	}
 }
